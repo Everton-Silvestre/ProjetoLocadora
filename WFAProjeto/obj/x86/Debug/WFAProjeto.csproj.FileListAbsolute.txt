@@ -1,0 +1,58 @@
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmCliente.resources
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.FrmPrincipal.resources
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.Properties.Resources.resources
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.csproj.GenerateResource.Cache
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.exe.config
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\bin\Debug\AgileLocadora.accdb
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.exe
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.pdb
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.exe
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.pdb
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmCategoria.resources
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmReserva.resources
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmVeiculo.resources
+E:\Semestre IV\C#\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.csprojResolveAssemblyReference.cache
+F:\WFAProjeto\WFAProjeto\bin\Debug\AgileLocadora.accdb
+F:\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.exe.config
+F:\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.exe
+F:\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.pdb
+F:\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmCategoria.resources
+F:\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmCliente.resources
+F:\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.FrmPrincipal.resources
+F:\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmReserva.resources
+F:\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmVeiculo.resources
+F:\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.Properties.Resources.resources
+F:\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.csproj.GenerateResource.Cache
+F:\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.exe
+F:\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.pdb
+C:\Users\Rodrigo\Desktop\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.exe.config
+C:\Users\Rodrigo\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.exe
+C:\Users\Rodrigo\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.pdb
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\bin\Debug\AgileLocadora.accdb
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.exe.config
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.exe
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.pdb
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmCategoria.resources
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmCliente.resources
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.FrmPrincipal.resources
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmReserva.resources
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmVeiculo.resources
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.Properties.Resources.resources
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.csproj.GenerateResource.Cache
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.exe
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.pdb
+C:\Users\Valdir\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.csprojResolveAssemblyReference.cache
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.exe.config
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.exe
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.pdb
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\bin\Debug\AgileLocadora.accdb
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.exe
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\bin\Debug\WFAProjeto.pdb
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.csprojResolveAssemblyReference.cache
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmCategoria.resources
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmCliente.resources
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.FrmPrincipal.resources
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmReserva.resources
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.frmVeiculo.resources
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.Properties.Resources.resources
+C:\Users\valdi\Desktop\WFAProjeto\WFAProjeto\obj\x86\Debug\WFAProjeto.csproj.GenerateResource.Cache
